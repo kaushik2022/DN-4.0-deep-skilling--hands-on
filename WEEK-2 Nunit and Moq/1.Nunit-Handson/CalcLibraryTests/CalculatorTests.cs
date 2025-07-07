@@ -17,7 +17,6 @@ namespace CalcLibraryTests
         [TearDown]
         public void Teardown()
         {
-            // Clean-up resources if needed
         }
 
         [Test]
